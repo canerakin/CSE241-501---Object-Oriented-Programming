@@ -1,0 +1,18 @@
+-propose 2 DeepLearning 521 3 5 BIL
+-propose 2 DeepTeach 522 3 6 CSE
+-propose 2 DeepListen 523 3 7 MUH
+-propose 2 Deep 524 3 8 CS
+-assign 2 18
+-assign 1 18
+-assign 7 4
+-assign
+-timetable 24
+-timetable 8
+-timetable
+-arrangeC 80 1
+-arrangeC 1 80
+-arrangeC 19 5
+-arrangeC
+-arrangeC 19 6
+-arrangeC
+-exit
